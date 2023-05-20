@@ -6,9 +6,9 @@
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Mladen Kajić | mkajic20@student.foi.hr | 0016147999 | mkajic20
-Luka Galjer | lgaljer20@student.foi.hr | 0016148489 | lgaljer20
-Jan Ivančić | jivancic20@student.foi.hr | 0016150494 | jivancic20
+Mladen Kajić | mkajic20@student.foi.hr | ********** | mkajic20
+Luka Galjer | lgaljer20@student.foi.hr | ********** | lgaljer20
+Jan Ivančić | jivancic20@student.foi.hr | ********** | jivancic20
 
 ## Opis domene
 Ugostiteljski objekti, osim što izdaju račune gostima, zaprimaju robu na skladište i vode inventar vlastitog skladišta prema kojem izdaju narudžbenice za narudžbu nove robe. Softversko rješenje će omogućiti vođenje inventara i izdaju računa gostima.
